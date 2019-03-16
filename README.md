@@ -14,7 +14,7 @@ Help to **Advance Programming** students.
 
    `git clone https://github.com/znusrc/ap98765432.git`
    
-4. Rename the _ap98765432_ directory id part name to yorself student id. For example if student number equal to _96765636_ then use this command `mv ap98765432 ap9`
+4. Rename the _ap98765432_ directory id part name to yorself student number. For example if student number equal to _96765636_ then use this command `mv ap98765432 ap9`
 
 
 5. Open your IDE and open cloned project path as an exist project.
@@ -25,3 +25,12 @@ Help to **Advance Programming** students.
 
 7. To commit and push your project in your account run these commands from **git bash**:
 
+(suppose git name is equal to _MyGitAccount_ and student number is equal to _96765636_)
+
+* `git remote add origin git@github.com:MyGitAccount/ap96765636.git`
+
+* `git add .`
+
+* `git commit -m "Assignment1 complete."`
+
+* `git push -u origin master`
