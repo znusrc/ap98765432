@@ -1,4 +1,4 @@
-# ap98765432
+# HOW TO CREATE YOUR CLASS PROJECT ON GITHUB
 Help to **Advance Programming** students.
 
 
