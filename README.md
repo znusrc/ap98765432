@@ -2,6 +2,6 @@
 Help to Advance Programming students.
 
 
-`Git clone`
+`git@github.com:znusrc/ap98765432.git`
 
 'yes'
