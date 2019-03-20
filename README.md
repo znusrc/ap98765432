@@ -1,9 +1,9 @@
 # HOW TO CREATE YOUR CLASS PROJECT ON GITHUB
 Help to **Advance Programming** students.
 
-0. Register and create your repository in github. Repository name should has this format _ap{StudentNumber}_, for example _ap96765636_.
+0. Register and create your repository in [github](https://github.com). Repository name should has this format _ap{StudentNumber}_, for example _ap96765636_.
 
-1. Open the **git bash**.
+1. Open the **[git bash](https://gitforwindows.org/)**.
 
 
 
