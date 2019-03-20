@@ -17,7 +17,7 @@ Help to **Advance Programming** students.
    `git clone https://github.com/znusrc/ap98765432.git`
 
 
-4. Rename the _ap98765432_ directory id part name to yorself student number. For example if student number equal to _96765636_ then use this command `mv ap98765432 ap9`
+4. Rename the _ap98765432_ directory id part name to yorself student number. For example if student number equal to _96765636_ then use this command `mv ap98765432 ap96765636`
 
 
 
