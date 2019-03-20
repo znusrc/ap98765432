@@ -34,7 +34,7 @@ Help to **Advance Programming** students.
 
    (suppose git account name is equal to _MyGitAccount_ and student number is equal to _96765636_)
 
-* `git remote set-url origin git@github.com:MyGitAccount/ap96765636.git`
+* `git remote set-url origin https://github.com:MyGitAccount/ap96765636.git`
 
 * `git add .`
 
